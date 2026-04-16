@@ -1,4 +1,4 @@
-# Study Notes Repository
+# KFJG-week8_NetworkPrograming
 
 CS:APP 11장 네트워크 프로그래밍을 학습하며 떠오른 키워드와 질문을 팀원끼리 정리하는 저장소입니다.
 
