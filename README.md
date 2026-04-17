@@ -6,7 +6,7 @@ CS:APP 11장 네트워크 프로그래밍을 학습하며 떠오른 키워드와
 
 ## Folder Structure
 
-- `Kho/`
+- `Koh/`
 - `Kim/`
 - `Yoo/`
 - `Cho/`
